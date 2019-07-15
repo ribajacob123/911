@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538662845943",
+    "firebase_url": "https://assure-27abb.firebaseio.com",
+    "project_id": "assure-27abb",
+    "storage_bucket": "assure-27abb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538662845943:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538662845943-hm6jthjosgr2to0uhhrcr6u6iv9r6658.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAfexd7PDO42_Dec2UgGPbVvY__e-0ado"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538662845943-hm6jthjosgr2to0uhhrcr6u6iv9r6658.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
